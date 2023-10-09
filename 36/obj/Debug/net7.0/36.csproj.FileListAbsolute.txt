@@ -1,0 +1,14 @@
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\bin\Debug\net7.0\36.exe
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\bin\Debug\net7.0\36.deps.json
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\bin\Debug\net7.0\36.runtimeconfig.json
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\bin\Debug\net7.0\36.dll
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\bin\Debug\net7.0\36.pdb
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\obj\Debug\net7.0\36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\obj\Debug\net7.0\36.AssemblyInfoInputs.cache
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\obj\Debug\net7.0\36.AssemblyInfo.cs
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\obj\Debug\net7.0\36.csproj.CoreCompileInputs.cache
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\obj\Debug\net7.0\36.dll
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\obj\Debug\net7.0\refint\36.dll
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\obj\Debug\net7.0\36.pdb
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\obj\Debug\net7.0\36.genruntimeconfig.cache
+C:\Users\Комплюктер\Desktop\GB\C#\homework_5\36\obj\Debug\net7.0\ref\36.dll
